@@ -17,7 +17,6 @@ Hoy comenzamos con la configuración inicial del proyecto de incidencias interna
 
 Se definió la estructura básica de organización del proyecto utilizando metodología visual tipo Kanban.
 
-
 # 19/02/2026
 
 Continuamos con la preparación del entorno de trabajo.
@@ -27,7 +26,9 @@ Continuamos con la preparación del entorno de trabajo.
 - Creación de repositorio en Bitbucket
 - Instalación de Sourcetree
 - Modificación del archivo README.md
-- Pruebas de funcionamiento de Push y Pull
-
+- Pruebas de funcionamiento de:
+  - `Push`
+  - `Pull`
 
 Se verificó correctamente la conexión entre el repositorio y el entorno local.
+
