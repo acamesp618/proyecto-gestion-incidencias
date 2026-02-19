@@ -6,13 +6,14 @@ Hoy comenzamos con la configuración inicial del proyecto de incidencias interna
 
 ## Tareas realizadas
 
-- Configuración de tablero en Trello con las siguientes columnas:
-- TO DO
-- DOING
-- DONE
-- Creación de dos tareas iniciales:
-- Configura Trello
-- Configurar repositorio en Git
+- Configuración de tablero en Trello.
+- Creación de columnas:
+  - `TO DO`
+  - `DOING`
+  - `DONE`
+- Creación de tareas iniciales:
+  - Configurar Trello
+  - Configurar repositorio en Git
 
 Se definió la estructura básica de organización del proyecto utilizando metodología visual tipo Kanban.
 
@@ -27,5 +28,6 @@ Continuamos con la preparación del entorno de trabajo.
 - Instalación de Sourcetree
 - Modificación del archivo README.md
 - Pruebas de funcionamiento de Push y Pull
+
 
 Se verificó correctamente la conexión entre el repositorio y el entorno local.
